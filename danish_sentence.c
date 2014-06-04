@@ -3,6 +3,7 @@
 #define VERB_NUM		10
 #define REPEAT_CNT	2
 
+
 typedef struct
 {
 	char question[50];
